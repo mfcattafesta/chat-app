@@ -1,0 +1,9 @@
+Pool Id us-east-2_CpfWeWUOT
+Pool ARN arn:aws:cognito-idp:us-east-2:608514939847:userpool/us-east-2_CpfWeWUOT
+
+Required attributes email
+Alias attributes email
+Username attributes none
+
+Minimum password length 8
+Password policy uppercase letters, lowercase letters, special characters, numbers

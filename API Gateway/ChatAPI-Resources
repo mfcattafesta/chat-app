@@ -1,0 +1,12 @@
+/
+    /conversations
+    GET
+    OPTIONS
+    POST
+        /id
+        GET
+        OPTIONS
+        POST
+    /users
+    GET
+    OPTIONS

@@ -1,0 +1,6 @@
+Role ARN: arn:aws:iam::608514939847:role/Chat-Lambda-Data 
+Role description: Allows Lambda functions to call AWS services on your behalf.
+
+Attahced policies:
+AWSLambdaBasicExecutionRole
+Chat-DynamoDB

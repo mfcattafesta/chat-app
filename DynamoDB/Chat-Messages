@@ -1,0 +1,8 @@
+Partition Key: ConversationId (string)
+Sort Key: Timestamp (number)
+1 RCU
+1 WCU
+
+Attributes:
+Message (string)
+Sender (string)

@@ -1,0 +1,6 @@
+Role ARN: arn:aws:iam::608514939847:role/Lambda-Cognito 
+Role description: Allows Lambda functions to call AWS services on your behalf.
+
+Attached policies
+AWSLambdaBasicExecutionRole
+Lambda-Cognito

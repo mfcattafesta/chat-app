@@ -1,0 +1,10 @@
+Partition Key: ConversationId (string)
+Sort Key: Username (string)
+1 RCU
+1 WCU
+
+GSI Username-ConversationId-index
+GSI Partition Key: Username (string)
+GSI Sort Key: ConversationId (string)
+1 RCU
+1 WCU
